@@ -1,0 +1,176 @@
+{
+  "autores": [
+    {
+      "id": 1,
+      "nombre": "Gabriel García Márquez",
+      "nacionalidad": "Colombiana",
+      "fecha_nacimiento": "1927-03-06",
+      "obras_destacadas": [
+        "Cien años de soledad",
+        "El amor en los tiempos del cólera"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "J.K. Rowling",
+      "nacionalidad": "Británica",
+      "fecha_nacimiento": "1965-07-31",
+      "obras_destacadas": [
+        "Harry Potter y la piedra filosofal",
+        "Harry Potter y la cámara secreta"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Haruki Murakami",
+      "nacionalidad": "Japonesa",
+      "fecha_nacimiento": "1949-01-12",
+      "obras_destacadas": [
+        "Tokio Blues",
+        "1Q84"
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Jane Austen",
+      "nacionalidad": "Británica",
+      "fecha_nacimiento": "1775-12-16",
+      "obras_destacadas": [
+        "Orgullo y prejuicio",
+        "Sentido y sensibilidad"
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Gabriela Mistral",
+      "nacionalidad": "Chilena",
+      "fecha_nacimiento": "1889-04-07",
+      "obras_destacadas": [
+        "Desolación",
+        "Lagar"
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "George Orwell",
+      "nacionalidad": "Británico",
+      "fecha_nacimiento": "1903-06-25",
+      "obras_destacadas": [
+        "1984",
+        "Rebelión en la granja"
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Isabel Allende",
+      "nacionalidad": "Chilena",
+      "fecha_nacimiento": "1942-08-02",
+      "obras_destacadas": [
+        "La casa de los espíritus",
+        "Eva Luna"
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "William Shakespeare",
+      "nacionalidad": "Inglés",
+      "fecha_nacimiento": "1564-04-23",
+      "obras_destacadas": [
+        "Romeo y Julieta",
+        "Hamlet"
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Gabriel García Márquez",
+      "nacionalidad": "Colombiano",
+      "fecha_nacimiento": "1927-03-06",
+      "obras_destacadas": [
+        "Cien años de soledad",
+        "El amor en los tiempos del cólera"
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Virginia Woolff",
+      "nacionalidad": "Británica",
+      "fecha_nacimiento": "1882-01-25",
+      "obras_destacadas": [
+        "La señora Dalloway",
+        "Las olas"
+      ]
+    }
+  ],
+  "libros": [
+    {
+      "id": 1,
+      "titulo": "Cien años de soledad",
+      "autor_id": 1,
+      "anio_publicacion": 1967,
+      "genero": "Realismo mágico"
+    },
+    {
+      "id": 2,
+      "titulo": "El amor en los tiempos del cólera",
+      "autor_id": 1,
+      "anio_publicacion": 1985,
+      "genero": "Romance"
+    },
+    {
+      "id": 3,
+      "titulo": "Harry Potter y la piedra filosofal",
+      "autor_id": 2,
+      "anio_publicacion": 1997,
+      "genero": "Fantasía"
+    },
+    {
+      "id": 4,
+      "titulo": "Tokio Blues",
+      "autor_id": 3,
+      "anio_publicacion": 1987,
+      "genero": "Ficción"
+    },
+    {
+      "id": 5,
+      "titulo": "Orgullo y prejuicio",
+      "autor_id": 4,
+      "anio_publicacion": 1813,
+      "genero": "Clásico"
+    },
+    {
+      "id": 6,
+      "titulo": "Desolación",
+      "autor_id": 5,
+      "anio_publicacion": 1922,
+      "genero": "Poesía"
+    },
+    {
+      "id": 7,
+      "titulo": "Kafka en la orilla",
+      "autor_id": 3,
+      "anio_publicacion": 2002,
+      "genero": "Ficción"
+    },
+    {
+      "id": 8,
+      "titulo": "Harry Potter y la cámara secreta",
+      "autor_id": 2,
+      "anio_publicacion": 1998,
+      "genero": "Fantasía"
+    },
+    {
+      "id": 9,
+      "titulo": "Sentido y sensibilidad",
+      "autor_id": 4,
+      "anio_publicacion": 1811,
+      "genero": "Clásico"
+    },
+    {
+      "id": 10,
+      "titulo": "Lagar",
+      "autor_id": 5,
+      "anio_publicacion": "1993-06-23",
+      "genero": "Poesíaa"
+    }
+  ]
+}
